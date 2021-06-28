@@ -4,7 +4,7 @@ import { theme } from "../../global/theme";
 export const styles = StyleSheet.create({
     container: {
         flexDirection: 'row',
-        alignItems: "center"
+        alignItems: "center",
     },
 
     user: {
