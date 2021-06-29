@@ -6,7 +6,7 @@ import { styles } from "./styles";
 export function Profile() {
     return (
         <View style={styles.container}>
-            <Avatar urlImage="github.com/ramonvds.png" />
+            <Avatar urlImage="https://github.com/ramonvds.png" />
             <View>
                 <View style={styles.user}>
                     <Text style={styles.greeting}>Olá,</Text>
